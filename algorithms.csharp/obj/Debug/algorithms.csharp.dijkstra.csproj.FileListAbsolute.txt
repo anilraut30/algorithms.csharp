@@ -1,0 +1,10 @@
+C:\repos\algorithms.csharp\algorithms.csharp\bin\Debug\algorithms.dijkstra.exe.config
+C:\repos\algorithms.csharp\algorithms.csharp\bin\Debug\algorithms.dijkstra.exe
+C:\repos\algorithms.csharp\algorithms.csharp\bin\Debug\algorithms.dijkstra.pdb
+C:\repos\algorithms.csharp\algorithms.csharp\bin\Debug\algorithms.csharp.common.exe
+C:\repos\algorithms.csharp\algorithms.csharp\bin\Debug\algorithms.csharp.common.pdb
+C:\repos\algorithms.csharp\algorithms.csharp\bin\Debug\algorithms.csharp.common.exe.config
+C:\repos\algorithms.csharp\algorithms.csharp\obj\Debug\algorithms.csharp.dijkstra.csprojResolveAssemblyReference.cache
+C:\repos\algorithms.csharp\algorithms.csharp\obj\Debug\algorithms.csharp.dijkstra.csproj.CoreCompileInputs.cache
+C:\repos\algorithms.csharp\algorithms.csharp\obj\Debug\algorithms.dijkstra.exe
+C:\repos\algorithms.csharp\algorithms.csharp\obj\Debug\algorithms.dijkstra.pdb

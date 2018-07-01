@@ -1,0 +1,7 @@
+C:\repos\algorithms.csharp\algorithms.csharp.common\bin\Debug\algorithms.csharp.common.exe.config
+C:\repos\algorithms.csharp\algorithms.csharp.common\bin\Debug\algorithms.csharp.common.exe
+C:\repos\algorithms.csharp\algorithms.csharp.common\bin\Debug\algorithms.csharp.common.pdb
+C:\repos\algorithms.csharp\algorithms.csharp.common\obj\Debug\algorithms.csharp.common.csprojResolveAssemblyReference.cache
+C:\repos\algorithms.csharp\algorithms.csharp.common\obj\Debug\algorithms.csharp.common.csproj.CoreCompileInputs.cache
+C:\repos\algorithms.csharp\algorithms.csharp.common\obj\Debug\algorithms.csharp.common.exe
+C:\repos\algorithms.csharp\algorithms.csharp.common\obj\Debug\algorithms.csharp.common.pdb
